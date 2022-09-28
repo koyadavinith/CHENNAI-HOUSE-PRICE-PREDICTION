@@ -12,7 +12,7 @@
   
   
 ## Data
-   The historical Sale data is available as **sales_demans_data.csv**
+   The historical Sale data is available as **train-chennai-sale.csv**
 
 ## About The Project
 This project goes over the full cycle of ML from cleaning the raw data to deployment
